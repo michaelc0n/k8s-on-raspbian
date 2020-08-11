@@ -51,7 +51,7 @@ You can also join the OpenFaaS Slack community's dedicated channel for ARM and R
 You're welcome to make use of this guide and to refer to it, but please do not copy it or pass it off as your own without giving attribution to the author(s). If you have suggestions or have found that some of the instructions have fallen out of date, then please see the Contributions section below on how to contribute.
 
 #### Reader's clusters
-
+* [Michael Saenz - Kubernetes Cluster on Raspberry Pi 3 (Parts List)](https://devnetstack.com/kubernetes-cluster-on-raspberry-pi-3-parts-list/)
 * [Dino Fizzotti - Raspberry Pi Cluster Part 2: ToDo API running on Kubernetes with k3s](https://www.dinofizzotti.com/blog/2020-05-09-raspberry-pi-cluster-part-2-todo-api-running-on-kubernetes-with-k3s/)
 * [Jim Angel's Kubernetes cluster for testing unreleased alpha / beta k8s versions](https://twitter.com/JimmAngel/status/1265087793170178048)
 * [roncrivera's 4-node home-lab running OpenFaaS in a gun-case](https://twitter.com/roncrivera/status/1078552483029381121)
